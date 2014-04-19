@@ -19,6 +19,7 @@
 		4C19F5A01902835E002B9DF4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C19F5881902835E002B9DF4 /* UIKit.framework */; };
 		4C19F5A81902835E002B9DF4 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4C19F5A61902835E002B9DF4 /* InfoPlist.strings */; };
 		4C19F5AA1902835E002B9DF4 /* CustomsCalcTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C19F5A91902835E002B9DF4 /* CustomsCalcTests.m */; };
+		4C19F5B4190284CB002B9DF4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C19F5B3190284CB002B9DF4 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		4C19F5A51902835E002B9DF4 /* CustomsCalcTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CustomsCalcTests-Info.plist"; sourceTree = "<group>"; };
 		4C19F5A71902835E002B9DF4 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4C19F5A91902835E002B9DF4 /* CustomsCalcTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomsCalcTests.m; sourceTree = "<group>"; };
+		4C19F5B3190284CB002B9DF4 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = ../Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 		4C19F58B1902835E002B9DF4 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				4C19F5B3190284CB002B9DF4 /* Main.storyboard */,
 				4C19F58C1902835E002B9DF4 /* CustomsCalc-Info.plist */,
 				4C19F58D1902835E002B9DF4 /* InfoPlist.strings */,
 				4C19F5901902835E002B9DF4 /* main.m */,
@@ -219,6 +222,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4C19F5B4190284CB002B9DF4 /* Main.storyboard in Resources */,
 				4C19F58F1902835E002B9DF4 /* InfoPlist.strings in Resources */,
 				4C19F5971902835E002B9DF4 /* Images.xcassets in Resources */,
 			);
