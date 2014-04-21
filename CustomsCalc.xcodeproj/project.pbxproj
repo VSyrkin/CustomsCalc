@@ -441,6 +441,7 @@
 				4C19F5AF1902835E002B9DF4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4C19F5B01902835E002B9DF4 /* Build configuration list for PBXNativeTarget "CustomsCalcTests" */ = {
 			isa = XCConfigurationList;
@@ -449,6 +450,7 @@
 				4C19F5B21902835E002B9DF4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
